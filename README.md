@@ -18,14 +18,10 @@ A lo largo de mi formación y proyectos profesionales, he desarrollado sólidas 
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `TypeScript` `Java` `Python` `C++` |
-| **Frontend** | `Angular` |
-| **Backend & Entornos** | `Node.js` |
-| **Herramientas & IDEs** | `VS Code` `Git` |
-
-> **Nota:** También puedes usar badges visuales si lo prefieres:
-> `![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)`
-
+| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Herramientas** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 ---
 
 ###  Objetivos Actuales
